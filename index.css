@@ -359,7 +359,7 @@ section {
 }
 
 .about .content ul i {
-  font-size: 30px;
+  font-size: 300px;
   margin-right: 5px;
   color: #149ddd;
   line-height: 0;
@@ -398,7 +398,7 @@ section {
 }
 
 .contact .info {
-  padding: 30px;
+  padding: 50px;
   background: #fff;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
@@ -427,9 +427,9 @@ section {
 }
 
 .contact .info p {
-  padding: 0 0 10px 60px;
+  padding: 0 0 5px 60px;
   margin-bottom: 20px;
-  font-size: 20px;
+  font-size: 15px;
   color: #173b6c;
 }
 
