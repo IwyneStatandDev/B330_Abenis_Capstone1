@@ -38,6 +38,22 @@ body {
 }
 
 
+#IwyneAbenis_WebDeveloper {
+  background-image: url('https://c4.wallpaperflare.com/wallpaper/503/398/475/gradient-shapes-abstract-minimalism-wallpaper-preview.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your background image file */
+  background-size: cover; /* This property ensures the image covers the entire section */
+  background-position: center; /* This property centers the image within the section */
+  background-repeat: no-repeat; /* This property prevents the image from repeating */
+  height: 400px; /* Set a height for your section */
+  /* Additional styles for your section */
+  color: white; /* Text color on top of the background image */
+  text-align: center; /* Center align text */
+  padding-top: 100px; /* Adjust padding as needed */
+}
+
+
+
+
+
 
 a {
   color: #149ddd;
@@ -269,7 +285,7 @@ h6 {
 section {
   padding: 60px 0;
   overflow: hidden;
-  background-color: beige;
+  background-color: #BDCDD6;
 }
 
 .section-bg {
@@ -308,15 +324,17 @@ section {
 # About
 --------------------------------------------------------------*/
 
+
 .IwyneAbenis_WebDeveloper-container {
-        text-align: left; /* Align text to the left */
+        text-align: left; 
     }
 
     .IwyneAbenis_WebDeveloper-container h1 {
-      font-size: 100px;
+      font-size: 50px;
+      text-indent: left;
     } 
     .IwyneAbenis_WebDeveloper-container h2 {
-        font-size: 50px;
+        font-size: 25px;
 }
 
 .about .content h3 {
@@ -402,7 +420,7 @@ section {
 
 .contact .info h4 {
   padding: 0 0 0 60px;
-  font-size: 30px;
+  font-size: 15px;
   font-weight: 600;
   margin-bottom: 5px;
   color: #050d18;
@@ -411,7 +429,7 @@ section {
 .contact .info p {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
-  font-size: 30px;
+  font-size: 20px;
   color: #173b6c;
 }
 
@@ -424,7 +442,7 @@ section {
 }
 
 .contact .info .social-links a {
-  font-size: 20px;
+  font-size: px;
   display: inline-block;
   background: #333;
   color: #fff;
